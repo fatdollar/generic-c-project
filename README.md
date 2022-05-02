@@ -1,5 +1,5 @@
-# Empty C Project Stucture with Simple Makefile
-C Project structure I use, with makefiles and examle program.
+# Empty C Project Structure with Simple Makefile
+C Project structure I use.
 
 Make file uses gcc. It will automatically detect src and header files and outputs .o to a folder name obj and the executable will be placed in .bin
 
